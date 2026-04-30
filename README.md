@@ -15,8 +15,8 @@ A simple web application built using Flask that analyzes user input text and cla
 - HTML
   
 ## Installation 
-pip install flask textblob
 python -m textblob.download_corpora
+pip install flask textblob
 
 ## ⚙️ Run
 
