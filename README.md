@@ -14,13 +14,6 @@ A simple web application built using Flask that analyzes user input text and cla
 - TextBlob
 - HTML
 
-## 📂 Structure
-sentiment-analysis-app/
-│
-├── app.py
-├── README.md
-└── templates/
-    └── index.html
 
 ## ⚙️ Run
 pip install  flask textblob
