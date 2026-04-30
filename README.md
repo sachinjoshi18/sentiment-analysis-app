@@ -27,7 +27,5 @@ pip install  flask textblob
 python -m textblob.download_corpora  
 python app.py  
 
-Open: http://127.0.0.1:5000/
-
 ## 👨‍💻 Author
 Sachin Joshi
