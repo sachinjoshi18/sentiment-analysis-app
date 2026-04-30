@@ -13,11 +13,13 @@ A simple web application built using Flask that analyzes user input text and cla
 - Flask
 - TextBlob
 - HTML
-
-
-## ⚙️ Run
+  
+## Installation 
 pip install flask textblob
 python -m textblob.download_corpora
+
+## ⚙️ Run
+
 python app.py
 
 ## 👨‍💻 Author
